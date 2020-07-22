@@ -78,15 +78,4 @@ By Nature of implementation, the Primality Test is only valid for 64bit integers
 
 
 
-I was writing a long article on this, but now have just reduced to tldrs, hope you like the article summarie - 
-1) Inclined to GO, because of Nutanix seniors' gopher profile photo. Didnt persue it but went to Rust (coz Mozilla )
-3) Got few small PRs merged at Mozilla Neqo. But didnt enjoyed writing in rust.
-2) Rust was too restrictive, ownership rules kept bugging me here and there. 
-4) Read many times Go solved companies server latency issues, wanted to give it a try
-5) Created primality test as a fake task to test.
-6) GO is now my GOTO language, will keep bugging my future colleagues to adopt it in projects (if they havent already)
-TODO : Learn concurrency patterns in GO (SUGGEST ME SOURCES), include nodejs in the becnhmarking test.
-
-
-
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
