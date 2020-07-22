@@ -29,6 +29,10 @@ A Go and python/flask server to serve primality test (prime or not) of integers 
 ### Why Primality Test?
 Three days into Go language and having heard/read multiple times about Go's speed and how it reduced X's server node count, I wanted to give it a try. So, to test, I thought many tasks such as reading a file to serve Key-Value, word auto-complete suggestion from a file, etc. But decided to go with ~~useless~~ primality test of 64-bit integers to simulate some amount of calculations involved.
 
+### Algorith for Primality Test
+I used deterministic version of Miller-Rabin primality test (works for all ints upto 64bits) [Read more here](https://cp-algorithms.com/algebra/primality_tests.html)
+
+
 ### Test Environments
 I tested on my Intel i7- 7700 HQ processor, with 8 GB of ram. At the time of testing, a fair amount of applications such as browser, Nautilus, and VSCode was running. 
 
